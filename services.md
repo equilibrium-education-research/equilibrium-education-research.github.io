@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Expand your opportunities with Equilibrium Education & Research
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Take one of our range of courses and learn how to use this incredibly useful knowledge. Its simple model and clear explanation makes you better understanding of world around you. You’ll learn how to build everything from this small sandbox.
