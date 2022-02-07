@@ -9,4 +9,4 @@ We are living in the "Big Data Era." Big data is often understood as a field tha
 
 ## Statistics Education
 
-Under this circumstance, the demand of Statistical knowledge is higher than ever before. As we understand this topic and take good advantage of it, we can analyze, understand better and eventually estimate and forecast acurately.
+Under this circumstance, the demand of Statistical knowledge is higher than ever before. As we understand this topic and take good advantage of it, we can analyze, understand better and eventually estimate and forecast accurately.
