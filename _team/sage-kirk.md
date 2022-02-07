@@ -2,7 +2,7 @@
 title: "Seol Go"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/sage-kirk-485982-unsplash.jpg"
+image: "images/team/img_0744.jpg"
 jobtitle: "Operations Manager"
 linkedinurl: "https://www.linkedin.com/example2"
 promoted: true
