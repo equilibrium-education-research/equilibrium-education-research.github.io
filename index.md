@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Equilibrium Education & Research - The Efficient Online Education.
+# Equilibrium Education & Research - Upgrade your life through Education.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Learners around the country are launching new opportunity, promoting in their fields, and upgrading their lives.
