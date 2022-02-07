@@ -5,48 +5,8 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Our leading lecturer is Sang-Yong Oh and He is from South Korea. He has a PhD degree in Economics from University at Buffalo, The State University of New York.
 
-## Ne verba patulosque numen vix libet
+He has been teaching all of core courses in Economics. Since 2006, He has worked extensively as a teaching assistant in the development of the exams of undergraduate courses at University at Buffalo. He has been teaching the Principle of Microeconomics, the Principle of Macroeconomics, Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Business and Economics Mathematics, and Business and Economics Statistics as well. He also has experienced various schools such as University at Buffalo, Buffalo State College, and Bloomsburg University. He also has teaching experience out side of the States as well. In Korea, he has been serving Chungbuk University and going to teach at Sungkyunkwan University coming semester.He is interested in teaching International Trade, Econometrics, Industrial Organization, Applied Microeconomics, Principles of Economics, Statistics.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+In the process of his research, He has learned the theoretical and empirical literature in not only International Trade but Industrial Organization, especially about the relationship among the US and East Asian countries. He has been practicing various econometric skills while dealing with large datasets. To sum up, his research interests stays in International Trade, Empirical Industrial Organization, and Applied Microeconomics.
