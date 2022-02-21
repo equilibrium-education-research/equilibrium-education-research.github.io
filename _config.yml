@@ -4,11 +4,11 @@ title: 'Equalibrium Education & Research'
 
 logo:
   mobile: "images/logo/logo1.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
+  mobile_height: "128px"
+  mobile_width: "128px"
   desktop: "images/logo/logo1.svg"
-  desktop_height: "64px"
-  desktop_width: "240px"
+  desktop_height: "486px"
+  desktop_width: "496px"
 
 collections:
   services:
